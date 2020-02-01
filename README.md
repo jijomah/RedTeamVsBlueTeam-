@@ -14,23 +14,37 @@ In this case I acted as both the Red team and the Blue team. The Red team is the
 Tasks Performed
 
 Red Team Objectives:
+
 •	Discover the lP address of the Linux server.
+
 •	Locate the hidden directory on the server.
+
 •	Brute force the password for the hidden directory.
-•	Break the hash password with John the Ripper
+
+•	Break the hash password with John the Ripper.
+
 •	Connect to the server via Webdav.
+
 •	Upload a reverse php connection payload.
+
 •	Capture and show the flag to your instructor.
 
 Blue Team Objectives:
+
 Use Wireshark to open the Snort log on your Kali machine.
 Look through the data and answer the following questions according to Wireshark:
-O How long did the attack last?
-O How many password attempts were made?
-O ln which packet was the correct password found?
-O In which packet was the shell placed onto the server?
-O In which packet was the shell activated?
+•	How long did the attack last?
+
+•	How many password attempts were made?
+
+•	ln which packet was the correct password found?
+
+•	In which packet was the shell placed onto the server?
+
+•	In which packet was the shell activated?
+
 
 Link to Presentation
+
 https://drive.google.com/file/d/1egvShHRDCL_apz1AUuDPjkd3XmF9F92j/view?usp=sharing 
 
