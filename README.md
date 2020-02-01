@@ -4,7 +4,8 @@ Cybersecurity/Penetration Testing
 Introduction
 
 Red Team/Blue Team
-    In this security oriented style of event the red team attempts to capture a flag while the blue team attempts to defend the flag from being captured.
+    
+  In this security oriented style of event the red team attempts to capture a flag while the blue team attempts to defend the flag from being captured.
     
 Summary
 
